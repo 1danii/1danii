@@ -7,5 +7,5 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-[![Gmail](https://img.shields.io/badge/danielpallares@email.cz-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:email@example.com")
+[![Gmail](https://img.shields.io/badge/danielpallares@email.cz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
 ![Discord](https://img.shields.io/badge/Dani%232247-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
