@@ -7,4 +7,5 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 
-![test](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Disrcord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
+
