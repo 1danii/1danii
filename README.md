@@ -12,3 +12,5 @@
 
 [![Gmail](https://img.shields.io/badge/danielpallares@email.cz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpallares@email.cz)
 [![Discord](https://img.shields.io/badge/Dani%232247-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/328545183245533184)
+
+$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8');]{x0000}$}$$
